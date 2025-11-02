@@ -1,6 +1,6 @@
-class Animal:
+class Cosmetika:
     def __init__(self, name):
         self.name = name
 
-my_animal = Animal("кролик")
-my_animal.my_name()
+my_cosmetika = Cosmetika("помада")
+my_cosmetika.my_name()
