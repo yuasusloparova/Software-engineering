@@ -1,11 +1,11 @@
-class Animal:
-    def __init__(self, name, age):
+class Cosmetika:
+    def __init__(self, name, color):
         self.name = name
-        self.age = age
+        self.color = color
     def my_name(self):
         print(f"Я {self.name}")
-    def my_age(self):
-        print(f"Мне уже {self.age} год")
-my_animal = Animal("кролик", 1)
+    def my_color(self):
+        print(f"у меня {self.color} ")
+my_animal = Cosmetika("помада", 1)
 my_animal.my_name()
-my_animal.my_age()
+my_animal.my_color()
