@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a89262-5682-4eab-a20b-f52393258f96" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34697427-cb00-443c-b36a-df45df10b1dc" />Тема 9.
+Тема 9.
 Отчет по теме № 9 подготовил(а):
 Суслопарова Юлия
 Пиэ-23-1
