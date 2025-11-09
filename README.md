@@ -32,7 +32,8 @@ person2 = Ivan('Иван')
 print(person1.name)
 print(person2.name)
 ```
-![1](laba1.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f5e6c3b-ea0b-45e5-9a95-8975dfb63e7f" />
+
 
 
 ## Задание 2.Лаба
