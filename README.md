@@ -1,4 +1,4 @@
-Тема 9.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97a89262-5682-4eab-a20b-f52393258f96" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34697427-cb00-443c-b36a-df45df10b1dc" />Тема 9.
 Отчет по теме № 9 подготовил(а):
 Суслопарова Юлия
 Пиэ-23-1
@@ -56,8 +56,9 @@ icecream = Icecream('шоколадом')
 icecream.composition()
 icecream = Icecream(5)
 icecream.composistion()
+
 ```
-![2](laba2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33657e2b-5531-400a-9e95-6a68219c6b63" />
 
 
 ## Задание 3.Лаба 
@@ -85,7 +86,8 @@ print(obj.get_value())
 obj.set_value(100)    
 print(obj.get_value())
 ```
-![3](laba3.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c748a6f7-0ebb-46c8-a2a3-975799c81a5e" />
+
 
 
 ## Задание 4.Лаба 
@@ -106,7 +108,8 @@ print(f"Dog is {dog.className}, but they say {dog.sounds}")
 cat=Cat()
 print (f"Cat is {cat.className}, but they say {cat.sounds}")
 ```
-![4](laba4.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e68edde-4369-4f74-a630-bd64cabf550d" />
+
 
 
 ## Задание 5.Лаба
@@ -126,7 +129,8 @@ greet(ivan)
 john=English()
 greet(john)
 ```
-![5](laba5.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1df2ac3-d61b-451d-91dd-b8446070d16e" />
+
 
 ## Самостоятельня 1
 ```python
@@ -221,4 +225,5 @@ if __name__ == "__main__":
     gardener.harvest() 
 
 ```
-![6](sam.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde98056-24d9-4d5e-b713-191f58cb0947" />
+
