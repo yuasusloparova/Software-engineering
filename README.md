@@ -33,6 +33,7 @@ print(person1.name)
 print(person2.name)
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f5e6c3b-ea0b-45e5-9a95-8975dfb63e7f" />
+## Результат Задание выполенено 
 
 
 
@@ -59,6 +60,7 @@ icecream.composistion()
 
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33657e2b-5531-400a-9e95-6a68219c6b63" />
+## Результат Задание выполенено 
 
 
 ## Задание 3.Лаба 
@@ -87,6 +89,7 @@ obj.set_value(100)
 print(obj.get_value())
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c748a6f7-0ebb-46c8-a2a3-975799c81a5e" />
+## Результат Задание выполенено 
 
 
 
@@ -109,6 +112,7 @@ cat=Cat()
 print (f"Cat is {cat.className}, but they say {cat.sounds}")
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e68edde-4369-4f74-a630-bd64cabf550d" />
+## Результат Задание выполенено 
 
 
 
@@ -130,6 +134,7 @@ john=English()
 greet(john)
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b1df2ac3-d61b-451d-91dd-b8446070d16e" />
+## Результат Задание выполенено 
 
 
 ## Самостоятельня 1
@@ -222,7 +227,9 @@ if __name__ == "__main__":
     
    
     gardener.work()
-    gardener.harvest() 
+    gardener.harvest()
+```
+## Результат Задание выполенено 
 
 ```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bde98056-24d9-4d5e-b713-191f58cb0947" />
